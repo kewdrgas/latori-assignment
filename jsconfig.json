@@ -29,5 +29,5 @@
   "include": [
     "./**/*.js",
     "./**/*.jsx"
-  ]
+, "app/routes/_index.tsx", "app/components/productCard/index.tsx", "app/components/header/index.tsx"  ]
 }
